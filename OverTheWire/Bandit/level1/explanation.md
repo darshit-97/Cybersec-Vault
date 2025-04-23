@@ -1,4 +1,3 @@
-```
 # Bandit Level 1 → Level 2 | Explanation
 
 ## 🧠 Core Idea
@@ -32,4 +31,3 @@ The file containing the password is named `-`, which is commonly interpreted by 
 ## 🧩 Takeaway
 - This level tests your understanding of **command-line parsing**.
 - It shows how file names starting with `-` can be problematic and how to work around them using `./`.
-```
