@@ -16,7 +16,7 @@ The Bandit challenge is divided into levels. Each level has a separate folder co
   - [README.md](Level0/README.md)
 
 - **Level 1**
-  - [walkthrough.md](1evel1/walkthrough.md)
+  - [walkthrough.md](level1/walkthrough.md)
   - [commands.md](level1/commands.md)
   - [explanation.md](level1/explanation.md)
 
