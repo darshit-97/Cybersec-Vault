@@ -1,6 +1,6 @@
 ### 📘 `commands.md`
 
-```
+
 # Bandit Level 1 → Level 2 | Commands Used
 
 ## 🔐 SSH into the Level
@@ -34,4 +34,3 @@ cat ./-
 ## 📝 Notes
 - If you had used `cat -`, it would wait for user input instead of reading the file.
 - The `./` prefix is essential when handling files with names that might be interpreted as options.
-```
