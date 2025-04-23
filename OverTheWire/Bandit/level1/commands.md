@@ -1,6 +1,3 @@
-### 📘 `commands.md`
-
-
 # Bandit Level 1 → Level 2 | Commands Used
 
 ## 🔐 SSH into the Level
