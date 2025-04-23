@@ -16,14 +16,14 @@ The Bandit challenge is divided into levels. Each level has a separate folder co
   - [README.md](Level0/README.md)
 
 - **Level 1**
-  - [walkthrough.md](Level1/walkthrough.md)
-  - [commands.md](Level1/commands.md)
-  - [explanation.md](Level1/explanation.md)
+  - [walkthrough.md](1evel1/walkthrough.md)
+  - [commands.md](level1/commands.md)
+  - [explanation.md](level1/explanation.md)
 
 - **Level 2**
-  - [walkthrough.md](OverTheWire/Bandit/Level2/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level2/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level2/explanation.md)
+  - [walkthrough.md](Level2/walkthrough.md)
+  - [commands.md](Level2/commands.md)
+  - [explanation.md](Level2/explanation.md)
 
 - **...**
   - And so on...
