@@ -32,11 +32,11 @@ The Bandit challenge is divided into levels. Each level has a separate folder co
 
 ## 🎯 Progress
 
-- [Level 0](OverTheWire/Bandit/Level0/README.md)
-- [Level 1](OverTheWire/Bandit/Level1/README.md)
-- [Level 2](OverTheWire/Bandit/Level2/README.md)
-- [Level 3](OverTheWire/Bandit/Level3/README.md)
-- [Level 4](OverTheWire/Bandit/Level4/README.md)
+- [Level 0](Level0/README.md)
+- [Level 1](Level1/README.md)
+- [Level 2](Level2/README.md)
+- [Level 3](Level3/README.md)
+- [Level 4](Level4/README.md)
 - ...
 
 ---
