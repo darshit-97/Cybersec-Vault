@@ -12,20 +12,20 @@ This repository contains detailed notes, solutions, and steps for solving each l
 
 The Bandit challenge is divided into levels. Each level has a separate folder containing files for the **walkthrough**, **commands used**, and **explanations** of the solutions. Here’s the breakdown:
 
-- **Level 00**
-  - [walkthrough.md](OverTheWire/Bandit/Level00/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level00/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level00/explanation.md)
+- **Level 0**
+  - [walkthrough.md](OverTheWire/Bandit/Level0/walkthrough.md)
+  - [commands.md](OverTheWire/Bandit/Level0/commands.md)
+  - [explanation.md](OverTheWire/Bandit/Level0/explanation.md)
   
-- **Level 01**
-  - [walkthrough.md](OverTheWire/Bandit/Level01/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level01/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level01/explanation.md)
+- **Level 1**
+  - [walkthrough.md](OverTheWire/Bandit/Level1/walkthrough.md)
+  - [commands.md](OverTheWire/Bandit/Level1/commands.md)
+  - [explanation.md](OverTheWire/Bandit/Level1/explanation.md)
 
-- **Level 02**
-  - [walkthrough.md](OverTheWire/Bandit/Level02/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level02/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level02/explanation.md)
+- **Level 2**
+  - [walkthrough.md](OverTheWire/Bandit/Level2/walkthrough.md)
+  - [commands.md](OverTheWire/Bandit/Level2/commands.md)
+  - [explanation.md](OverTheWire/Bandit/Level2/explanation.md)
 
 - **...**
   - And so on...
@@ -34,11 +34,11 @@ The Bandit challenge is divided into levels. Each level has a separate folder co
 
 ## 🎯 Progress
 
-- [Level 00](OverTheWire/Bandit/Level00/README.md)
-- [Level 01](OverTheWire/Bandit/Level01/README.md)
-- [Level 02](OverTheWire/Bandit/Level02/README.md)
-- [Level 03](OverTheWire/Bandit/Level03/README.md)
-- [Level 04](OverTheWire/Bandit/Level04/README.md)
+- [Level 0](OverTheWire/Bandit/Level0/README.md)
+- [Level 1](OverTheWire/Bandit/Level1/README.md)
+- [Level 2](OverTheWire/Bandit/Level2/README.md)
+- [Level 3](OverTheWire/Bandit/Level3/README.md)
+- [Level 4](OverTheWire/Bandit/Level4/README.md)
 - ...
 
 ---
