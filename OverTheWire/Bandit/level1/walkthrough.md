@@ -1,4 +1,3 @@
-```markdown
 # Bandit Level 1 → Level 2 | Walkthrough
 
 ## 🎯 Objective
@@ -31,5 +30,4 @@ The password for the next level is stored in a file called - located in the home
 
 ```
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
-```
 ```
