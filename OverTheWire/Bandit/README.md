@@ -13,14 +13,14 @@ This repository contains detailed notes, solutions, and steps for solving each l
 The Bandit challenge is divided into levels. Each level has a separate folder containing files for the **walkthrough**, **commands used**, and **explanations** of the solutions. Here’s the breakdown:
 
 - **Level 0**
-  - [walkthrough.md](OverTheWire/Bandit/Level0/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level0/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level0/explanation.md)
+  - [walkthrough.md](Level0/walkthrough.md)
+  - [commands.md](Level0/commands.md)
+  - [explanation.md](Level0/explanation.md)
   
 - **Level 1**
-  - [walkthrough.md](OverTheWire/Bandit/Level1/walkthrough.md)
-  - [commands.md](OverTheWire/Bandit/Level1/commands.md)
-  - [explanation.md](OverTheWire/Bandit/Level1/explanation.md)
+  - [walkthrough.md](Level1/walkthrough.md)
+  - [commands.md](Level1/commands.md)
+  - [explanation.md](Level1/explanation.md)
 
 - **Level 2**
   - [walkthrough.md](OverTheWire/Bandit/Level2/walkthrough.md)
